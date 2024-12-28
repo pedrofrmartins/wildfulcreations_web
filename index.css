@@ -126,14 +126,13 @@
 }
 
 .u-section-2 .u-text-2 {
-  width: 746px;
-  margin: 20px auto 0;
+  margin: 20px 0 0;
 }
 
 .u-section-2 .u-gallery-1 {
   height: 423px;
   margin-top: 47px;
-  margin-bottom: 60px;
+  margin-bottom: 0;
   grid-gap: 17px;
 }
 
@@ -157,9 +156,22 @@
   padding: 20px;
 }
 
+.u-section-2 .u-btn-1 {
+  --radius: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 30px auto 60px;
+}
+
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 597px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 746px;
   }
 
   .u-section-2 .u-gallery-1 {
@@ -187,7 +199,7 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 2204px;
+    min-height: 2146px;
   }
 
   .u-section-2 .u-text-2 {
@@ -205,7 +217,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1508px;
+    min-height: 1456px;
   }
 
   .u-section-2 .u-text-2 {
@@ -230,7 +242,7 @@
 
 .u-section-3 .u-text-2 {
   font-style: italic;
-  margin: 20px 276px 0 0;
+  margin: 20px 0 0;
 }
 
 .u-section-3 .u-accordion-1 {
@@ -281,6 +293,11 @@
   padding: 20px 30px;
 }
 
+.u-section-3 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-3 .u-accordion-link-3 {
   font-weight: 700;
   padding: 20px 30px;
@@ -298,6 +315,11 @@
 
 .u-section-3 .u-container-layout-3 {
   padding: 20px 30px;
+}
+
+.u-section-3 .u-btn-3 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-section-3 .u-accordion-link-4 {
@@ -319,6 +341,11 @@
   padding: 20px;
 }
 
+.u-section-3 .u-btn-4 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-3 .u-accordion-link-5 {
   font-weight: 700;
   padding: 20px 30px;
@@ -338,10 +365,14 @@
   padding: 20px;
 }
 
+.u-section-3 .u-btn-5 {
+  background-image: none;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-3 .u-text-2 {
     width: 864px;
-    margin-right: 76px;
   }
 
   .u-section-3 .u-accordion-1 {
@@ -352,7 +383,6 @@
 @media (max-width: 991px) {
   .u-section-3 .u-text-2 {
     width: 720px;
-    margin-right: 0;
   }
 
   .u-section-3 .u-accordion-1 {
