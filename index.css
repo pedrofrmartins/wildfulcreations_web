@@ -12,15 +12,15 @@
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 30px;
+  padding: 30px 0;
 }
 
 .u-section-1 .u-image-1 {
-  height: 313px;
-  background-image: url("images/pexels-august-de-richelieu-4427620.jpg");
-  background-position: 50% 25.34%;
-  width: 313px;
-  margin: 0 auto 0 0;
+  height: 374px;
+  background-image: url("images/31945787_1668473006576005_8426821591047864320_n.jpg");
+  background-position: 50% 50%;
+  width: 374px;
+  margin: 7px 0 0 auto;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -55,8 +55,8 @@
   }
 
   .u-section-1 .u-image-1 {
-    height: 253px;
-    width: 253px;
+    height: 313px;
+    width: 313px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -74,8 +74,8 @@
   }
 
   .u-section-1 .u-image-1 {
-    height: 180px;
-    width: 180px;
+    height: 240px;
+    width: 240px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -95,11 +95,6 @@
 
   .u-section-1 .u-layout-cell-1 {
     min-height: 256px;
-  }
-
-  .u-section-1 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
   }
 
   .u-section-1 .u-container-layout-2 {
