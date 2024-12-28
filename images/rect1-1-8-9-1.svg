@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.680641mm"
+   height="67.321449mm"
+   viewBox="0 0 48.680641 67.321449"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-79.793342,-39.934357)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-1-8-9-1"
+       width="14.378435"
+       height="20.407896"
+       x="96.94445"
+       y="63.391129"
+       ry="0.50757182" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.7288px;line-height:0.5;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07773;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="104.29968"
+       y="74.322647"
+       id="text2-8-5-5-1"><tspan
+         id="tspan2-2-7-4-3"
+         style="font-size:8px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.07773;stroke-opacity:1"
+         x="104.29968"
+         y="74.322647">A5</tspan><tspan
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07773;stroke-opacity:1"
+         x="104.29968"
+         y="82.68705"
+         id="tspan5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;line-height:1;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="104.16589"
+       y="76.89785"
+       id="text3-4-6-3-8"><tspan
+         id="tspan3-5-1-1-7"
+         style="font-size:2px;line-height:1;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke:none;stroke-width:0.5"
+         x="104.16589"
+         y="76.89785">210 x 148.5mm</tspan><tspan
+         style="font-size:2px;line-height:1;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke:none;stroke-width:0.5"
+         x="104.16589"
+         y="78.89785"
+         id="tspan4-5-8-2-4">8.3 x 5.8in</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9"
+       width="48.680645"
+       height="67.321442"
+       x="79.793343"
+       y="39.934357"
+       ry="0.73758548" />
+  </g>
+</svg>

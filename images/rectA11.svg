@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.680641mm"
+   height="67.321449mm"
+   viewBox="0 0 48.680641 67.321449"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-75.411613,-41.170288)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.333698;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-1"
+       width="46.546711"
+       height="66.065643"
+       x="76.478584"
+       y="41.798191"
+       ry="1.6431413" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0.5;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07773;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="99.974602"
+       y="74.957207"
+       id="text2-8"><tspan
+         id="tspan2-2"
+         style="font-size:12px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.07773;stroke-opacity:1"
+         x="99.974602"
+         y="74.957207">A1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="99.816399"
+       y="80.316315"
+       id="text3-4"><tspan
+         id="tspan3-5"
+         style="font-size:4px;line-height:1;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke:none;stroke-width:0.5"
+         x="99.816399"
+         y="80.316315">841 x 594mm</tspan><tspan
+         style="font-size:4px;line-height:1;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke:none;stroke-width:0.5"
+         x="99.816399"
+         y="84.316315"
+         id="tspan4-5">33.1 x 23.4in</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9"
+       width="48.680645"
+       height="67.321442"
+       x="75.411621"
+       y="41.170288"
+       ry="0.73758548" />
+  </g>
+</svg>

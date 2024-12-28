@@ -3,12 +3,11 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 60px auto 0;
+  margin: 60px auto 0 0;
 }
 
 .u-section-1 .u-text-2 {
-  width: 746px;
-  margin: 20px auto 0;
+  margin: 20px 394px 0 0;
 }
 
 .u-section-1 .u-gallery-1 {
@@ -58,6 +57,11 @@
     min-height: 689px;
   }
 
+  .u-section-1 .u-text-2 {
+    width: 746px;
+    margin-right: 194px;
+  }
+
   .u-section-1 .u-gallery-1 {
     height: 455px;
   }
@@ -70,6 +74,7 @@
 
   .u-section-1 .u-text-2 {
     width: 720px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-gallery-1 {

@@ -3,12 +3,12 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 60px auto 0;
+  margin: 60px auto 0 0;
 }
 
 .u-section-1 .u-text-2 {
-  width: 746px;
-  margin: 20px auto 0;
+  font-family: Acme;
+  margin: 20px 394px 0 0;
 }
 
 .u-section-1 .u-gallery-1 {
@@ -43,6 +43,11 @@
     min-height: 675px;
   }
 
+  .u-section-1 .u-text-2 {
+    width: 746px;
+    margin-right: 194px;
+  }
+
   .u-section-1 .u-gallery-1 {
     height: 347px;
   }
@@ -55,6 +60,7 @@
 
   .u-section-1 .u-text-2 {
     width: 720px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-gallery-1 {
@@ -131,15 +137,6 @@
   margin: 20px 0 0;
 }
 
-.u-section-2 .u-btn-1 {
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  border-style: solid;
-  text-transform: uppercase;
-  margin: 20px auto 0;
-  padding: 2px 0;
-}
-
 .u-section-2 .u-container-layout-2 {
   padding: 30px;
 }
@@ -159,15 +156,6 @@
   margin: 20px 0 0;
 }
 
-.u-section-2 .u-btn-2 {
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  border-style: solid;
-  text-transform: uppercase;
-  margin: 20px auto 0;
-  padding: 2px 0;
-}
-
 .u-section-2 .u-container-layout-3 {
   padding: 30px;
 }
@@ -185,15 +173,6 @@
 
 .u-section-2 .u-text-6 {
   margin: 20px 0 0;
-}
-
-.u-section-2 .u-btn-3 {
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  border-style: solid;
-  text-transform: uppercase;
-  margin: 20px auto 0;
-  padding: 2px 0;
 }
 
 @media (max-width: 1199px) {
@@ -237,8 +216,7 @@
 }
 
 .u-section-3 .u-list-1 {
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin: 0;
 }
 
 .u-section-3 .u-repeater-1 {
@@ -267,15 +245,6 @@
   margin: 20px 0 0;
 }
 
-.u-section-3 .u-btn-1 {
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  border-style: solid;
-  text-transform: uppercase;
-  margin: 20px auto 0;
-  padding: 2px 0;
-}
-
 .u-section-3 .u-container-layout-2 {
   padding: 30px;
 }
@@ -293,15 +262,6 @@
 
 .u-section-3 .u-text-4 {
   margin: 20px 0 0;
-}
-
-.u-section-3 .u-btn-2 {
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  border-style: solid;
-  text-transform: uppercase;
-  margin: 20px auto 0;
-  padding: 2px 0;
 }
 
 .u-section-3 .u-container-layout-3 {
@@ -323,20 +283,25 @@
   margin: 20px 0 0;
 }
 
-.u-section-3 .u-btn-3 {
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  border-style: solid;
-  text-transform: uppercase;
-  margin: 20px auto 0;
-  padding: 2px 0;
+.u-section-3 .u-text-7 {
+  font-family: Acme;
+  margin: 0 937px 31px 0;
 }
 
 @media (max-width: 1199px) {
+  .u-section-3 .u-list-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-3 .u-repeater-1 {
     grid-auto-columns: 33.333333333333336%;
     grid-template-columns: repeat(3, 33.333333333333336%);
     min-height: 309px;
+  }
+
+  .u-section-3 .u-text-7 {
+    margin-right: 737px;
   }
 }
 
@@ -345,6 +310,10 @@
     grid-auto-columns: 50%;
     grid-template-columns: repeat(2, 50%);
     min-height: 710px;
+  }
+
+  .u-section-3 .u-text-7 {
+    margin-right: 517px;
   }
 }
 
@@ -368,24 +337,29 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-3 .u-text-7 {
+    margin-right: 337px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-7 {
+    margin-right: 137px;
+  }
 }.u-section-4 .u-sheet-1 {
-  min-height: 751px;
+  min-height: 588px;
 }
 
 .u-section-4 .u-text-1 {
-  margin: 60px auto 0;
-}
-
-.u-section-4 .u-text-2 {
-  width: 746px;
-  margin: 20px auto 0;
+  width: 209px;
+  margin: 0 auto;
 }
 
 .u-section-4 .u-gallery-1 {
   height: 423px;
-  margin-top: 47px;
-  margin-bottom: 60px;
   grid-gap: 17px;
+  margin: 30px 0 60px;
 }
 
 .u-section-4 .u-gallery-inner-1 {
@@ -410,25 +384,25 @@
 
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 675px;
+    min-height: 512px;
   }
 
   .u-section-4 .u-gallery-1 {
     height: 347px;
+    margin-right: initial;
+    margin-left: initial;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1153px;
-  }
-
-  .u-section-4 .u-text-2 {
-    width: 720px;
+    min-height: 990px;
   }
 
   .u-section-4 .u-gallery-1 {
     height: 825px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-4 .u-gallery-inner-1 {
@@ -441,12 +415,10 @@
     min-height: 2204px;
   }
 
-  .u-section-4 .u-text-2 {
-    width: 540px;
-  }
-
   .u-section-4 .u-gallery-1 {
     height: 1896px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-4 .u-gallery-inner-1 {
@@ -459,11 +431,9 @@
     min-height: 1508px;
   }
 
-  .u-section-4 .u-text-2 {
-    width: 340px;
-  }
-
   .u-section-4 .u-gallery-1 {
     height: 1206px;
+    margin-right: initial;
+    margin-left: initial;
   }
 }
